@@ -1,3 +1,3 @@
 # Programação 2 - JAVA
 
-Repositório do aluno Pedro Espíndula, que contêm todos os códigos feitos para a disciplina de programação 2 da UFCG.
+Repositório para controle de código da cadeira de Programação 2 do curso de Ciências da Computação da UFCG.
